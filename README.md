@@ -97,7 +97,8 @@ We're committed to expanding our platform's capabilities:
 ## 👥 Team Bug Fixers
 
 ### Students At
-**Vivekanand Education Society's Institute of Technology, Chembur, Maharashtra**
+**1. Vivekanand Education Society's Institute of Technology, Chembur, Maharashtra** 
+**2. Thadomal Shahani Engineering College**
 
 | Name | Branch | Year | Email |
 |------|--------|------|-------|
